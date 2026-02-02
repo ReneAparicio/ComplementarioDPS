@@ -20,7 +20,6 @@ body {
   line-height: 1.7;
 }
 
-/* HERO */
 .hero {
   text-align: center;
   padding: 50px 20px 40px;
@@ -42,7 +41,6 @@ body {
   color: var(--texto-suave);
 }
 
-/* NAV */
 .nav {
   margin-top: 20px;
 }
@@ -76,7 +74,6 @@ body {
   width: 100%;
 }
 
-/* SECTIONS */
 .section {
   max-width: 850px;
   margin: 50px auto;
@@ -98,7 +95,6 @@ body {
   text-align: justify; /* texto justificado */
 }
 
-/* SOFT BLOCK */
 .soft {
   background: linear-gradient(180deg, #1c1c1e, #141416);
   padding: 45px 25px;
@@ -113,7 +109,6 @@ body {
   box-shadow: 0 20px 40px rgba(0,0,0,0.6);
 }
 
-/* FOOTER */
 footer {
   text-align: center;
   padding: 40px 20px;
@@ -121,7 +116,6 @@ footer {
   color: var(--texto-suave);
 }
 
-/* ANIMATIONS */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -142,4 +136,5 @@ footer {
     opacity: 1;
     transform: translateY(0);
   }
+
 }
